@@ -1,5 +1,5 @@
 # ASMx86-Tetris-project
-A complete game written in pure x86 Assembly (TASm).
+A complete game written in pure x86 Assembly.
 
 Direct Hardware Control: Customized keyboard and mouse interrupts (int 9h, int 33h).
 
